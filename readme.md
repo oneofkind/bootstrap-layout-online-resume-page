@@ -1,7 +1,7 @@
 #  练习 - Bootstrap 简历
 ## 需求说明:
 
-根据[原型图](http://wrapbootstrap.com/preview/WB0265951)，在 `index.html` 中编写 HTML 代码。
+根据[原型图](http://wrapbootstrap.com/preview/WB0265951)，在 `index.html` 中编写 HTML 代码
 ![](./mock.png)
 
 ## 挑战:
